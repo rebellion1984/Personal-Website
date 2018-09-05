@@ -1,2 +1,2 @@
 # Personal-Website
-I have created a personal website, which is going to be launched very soon.
+I have created a simple personal website, by using HTML5, CSS and Bootstrap.
